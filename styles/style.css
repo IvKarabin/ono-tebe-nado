@@ -193,10 +193,12 @@
 
 .lots__card-list {
   display: flex;
+  flex-wrap: wrap;
   list-style: none;
   justify-content: flex-start;
   padding: 26px 24px 29px;
   column-gap: 25px;
+  row-gap: 25px;
 }
 
 .lots__card-list-item {
