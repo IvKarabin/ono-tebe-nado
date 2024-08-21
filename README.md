@@ -1,1 +1,1 @@
-git@github.com/IvKarabin/ono-tebe-nadо
+https://github.com/IvKarabin/ono-tebe-nado
